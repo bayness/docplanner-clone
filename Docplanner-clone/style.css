@@ -1,0 +1,48 @@
+html, body{
+  width: auto;
+}
+
+ 
+li{
+
+  list-style-type: none; 
+
+  
+}
+
+
+.h1-color{
+color: #63cdb2;
+}
+
+
+
+.box{
+  height: 250px;
+  width: 229px;
+  padding: 15px;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 5px;
+
+}
+.box h4{
+  color: #63cdb2;
+  font-size: 24px;
+}
+ p{
+  color: #747474;
+
+}
+.card-box{
+  height: 400px;
+  width: 312px;
+  padding: 32px 32px 0 32px;
+}
+
+
+.office__desc{
+  text-decoration: none;
+  
+}
+

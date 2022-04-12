@@ -1,0 +1,8 @@
+ <div class="grid stats__grid fade-elements">
+
+
+ stats__grid:  
+
+                   <img scr="doc-images/zero-logo.png" width="400px" height="400px">
+
+
